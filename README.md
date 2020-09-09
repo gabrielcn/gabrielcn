@@ -15,4 +15,4 @@ Fale comigo 👇🏼
 [![Twitter Badge](https://img.shields.io/badge/-@gabrielcnn_-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/gabrielcnn_)](https://twitter.com/gabrielcnn_) 
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.reis.gr402@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.reis.gr402@gmailcom)](mailto:gabriel.reis.gr402@gmail.com)
 
-![](https://www.thedummyprogrammer.com/wp-content/uploads/2019/04/myAvatar-1.png) ![](https://thesavvysocialista.com/wp-content/uploads/2015/07/web-design-template-the-savvy-socialista.jpg)
+![](https://www.thedummyprogrammer.com/wp-content/uploads/2019/04/myAvatar-1.png)

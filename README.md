@@ -1,9 +1,9 @@
 ## 🖐🏼 Olá
 Meu nome é Gabriel 👦🏻🇧🇷
 
-#### 🧠 "Eu sou o que tem para agora!"  🌎
+#### 🧠 "Eu sou o que tem pra agora!"  🌎
 
-- 📍 Local: Brasil - São Paulo 
+- 📍 Brasil - São Paulo 
 - 👨‍💻 Redes de Computadores 
 - 🔒 Segurança da Informação 
 - ☁️ Computação em Nuvem

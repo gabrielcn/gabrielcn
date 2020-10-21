@@ -9,6 +9,7 @@ Meu nome é Gabriel 👦🏻🇧🇷
 - ☁️ Computação em Nuvem
 
 Fale comigo 👇🏼
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-reis-0512/)](https://www.linkedin.com/in/gabriel-reis-0512/)
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.reis.gr402@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.reis.gr402@gmailcom)](mailto:gabriel.reis.gr402@gmail.com)
 

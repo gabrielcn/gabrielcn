@@ -21,10 +21,11 @@ Eu sou o Gabriel 👦🏻🇧🇷
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Shell" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="right" alt="baby-yoda"  height="150" width="150" src="https://freepngimg.com/download/star_wars/99068-cute-star-wars-photos-baby-yoda.png">
                  
 </div>
  
-##
+## 
   
 <div>
    <a href="https://www.youtube.com/channel/UCWHYBv3Ku2hUewOIWBaFMVw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

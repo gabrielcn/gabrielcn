@@ -1,5 +1,4 @@
 ## 🖐🏼 Olá
-Eu sou o Gabriel 👦🏻🇧🇷
 
 #### 🧠 "Eu sou o que tem pra agora!"  🌎
 

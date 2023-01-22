@@ -4,7 +4,7 @@
 
 - 📍 Brasil - São Paulo 
 - 👨‍💻 Redes de Computadores 
-- 📊👨‍🔬 Data Science
+- 📊👨‍🔬 Ciência de Dados
 
 <div>
   <a href="https://github.com/gabrielcn">
